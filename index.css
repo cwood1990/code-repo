@@ -1,0 +1,27 @@
+body
+{
+  background:#ffad7a;
+}
+p{
+  color: black;
+  font-family: arial;
+}
+h1{
+  color: black;
+}
+img{
+  width: 200px;
+}
+.img-2 {
+  width: 400px;
+}
+a{:https://www.dogstrust.org.uk/}
+.listitems{
+  font-size: 40px
+}
+.oneitem{
+  font-size: 40px
+}
+*{
+  font-family: sans-serif;
+}
